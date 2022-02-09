@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Benjamin Jones (@benjonesbenjones)
+- 👀 I’m interested in writing, politics, and tech!
+- 🌱 I’m currently learning R and React. You might have come here from my portfolio site!
+- 💞️ I’m looking for internships! Please do get in touch if you'd like to work with me.
+- 📫 Shoot me an email at bdja2018@mymail.pomona.edu
